@@ -1,0 +1,10 @@
+{
+  "Profiles": [
+    {
+      "Environment": "Local",
+      "Secrets": {
+        "Foo": "Bar"
+      }
+    }
+  ]
+}
